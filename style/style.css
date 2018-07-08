@@ -1,0 +1,50 @@
+body {
+	font-family: Montserrat, Arial, sans-serif;
+	
+	}
+}
+
+
+
+svg {
+	/*border-style: dotted;*/
+}
+
+div.main {
+	width: 430px;
+	padding: 10px;
+}
+.button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+    margin-left: 3px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+		font-weight: bold;
+}
+
+#btn-topics {
+	/*width: 430px;*/
+}
+
+.tooltip {
+	position: absolute;
+	width: 150px;
+	height: 28px;
+	stroke: 1px;
+	pointer-events: none;
+	font-size: 12px;
+	min-width: 80px;
+	height: auto;
+	background: none repeat scroll 0 0 #ffffff;
+	background-color: white;
+	border: 1px solid grey;
+	padding: 10px;
+	text-align: center;
+}
+
